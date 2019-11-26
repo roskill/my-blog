@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import articleContent from './article-content';
+import articleContent from '../pages/article-content';
 
 const ArticlesList = () => (
   <>
